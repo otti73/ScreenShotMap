@@ -1,0 +1,10 @@
+[general]
+name=ScreenShotMap
+qgisMinimumVersion=4.0
+description=Exports the current map canvas as a DIN A4 PNG with scale bar, data sources, north arrow and date.
+about=Keeps the current canvas extent exactly, places it on an A4 landscape page and uses the remaining space for a right-aligned scale bar, the visible layer names as data sources, a runtime-generated north arrow and the current date. The result is exported as a ready-to-use PNG file.
+version=1.0.0
+author=Uwe Copei
+email=uwe.copei@gmx.de
+category=Vector
+icon=icon.png
